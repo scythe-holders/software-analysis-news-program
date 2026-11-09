@@ -6,7 +6,6 @@ a platform that connects content creators with media reviewers. Creators can sub
 Content creators need a simple way to submit their work and track its review status. Reviewers need an organized system to manage incoming submissions.
 3. MVP goal:
 The goal of MVP is to allow content creators to submit their work, receive a review decision, and track their submission status.
-For the semester MVP, I recommend submitting an existing media URL first, leaving direct video file uploads for a later iteration.
 US-01	Register, log in, and log out securely	
 US-02	Submit a media work	
 US-03	View my previous submissions	
