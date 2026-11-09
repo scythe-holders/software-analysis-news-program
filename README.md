@@ -1,10 +1,10 @@
 # software-analysis-news-program
 software analysis project
-1. Project description
+1. Project description:
 a platform that connects content creators with media reviewers. Creators can submit their media content, and reviewers can evaluate it.
-2. Problem statement
+2. Problem statement:
 Content creators need a simple way to submit their work and track its review status. Reviewers need an organized system to manage incoming submissions.
-3. MVP goal
+3. MVP goal:
 The goal of Homarasa's MVP is to allow content creators to submit their work, receive a review decision, and track their submission status.
 For the semester MVP, I recommend submitting an existing media URL first, leaving direct video file uploads for a later iteration.
 US-01	Register, log in, and log out securely	
