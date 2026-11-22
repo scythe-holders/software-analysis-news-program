@@ -1,0 +1,14 @@
+UC-01	Register	Visitor	Create a new user account
+UC-02	Login	User, Admin	Authenticate and access the system
+UC-03	View Published News	All actors	Browse publicly approved news
+UC-04	Browse Programs	All actors	View news by Sports, Politics, Economics, etc.
+UC-05	Submit News	User	Create a new report in a selected program
+UC-06	Upload Media	User	Attach images or videos to a report
+UC-07	Track Submission	User	Check the status of submitted news
+UC-08	Edit and Resubmit News	User	Correct news returned by an admin
+UC-09	Review News	Admin	Examine pending news submissions
+UC-10	Approve News	Admin	Approve news for public publication
+UC-11	Request Changes	Admin	Return a report to its author with feedback
+UC-12	Reject / Remove News	Admin	Reject or remove inappropriate submissions
+UC-13	Manage Programs	Admin	Create, edit, or remove news sections
+UC-14	Manage User Roles	Admin	Promote or demote registered users
